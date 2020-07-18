@@ -33,7 +33,7 @@
 							</div>
 
 							<div class="form-group">
-								<label for="mensagem">Mensagem1</label>
+								<label for="mensagem">Mensagem</label>
 								<textarea class="form-control" name="mensagem" id="mensagem"></textarea>
 							</div>
 
